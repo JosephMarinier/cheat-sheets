@@ -1,8 +1,6 @@
 # Python's Star Operator
 ###### A feature that _packs_ a punch (pun intended)
 
-[Here](https://servicenow.zoom.us/rec/share/JlV3xDx_Z675T1o3O-29RtFZiYTlW_3pLmbg4y-CkUoqAzPVsL_4X3cIaL63LrzF.T7YnqNZUYom6xJAd?startTime=1686854001000) is a recording of me (Joseph) presenting this content.
-
 ## Introduction
 
 You have probably seen the `*` operator in something like this:
