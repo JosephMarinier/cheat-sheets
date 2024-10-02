@@ -149,7 +149,7 @@ re.compile(r"\.")
 ```
 
 > [!CAUTION]
-> The `.` character is particularly error-prone since the wildcard `.` does match the literal character `.`, so you might not notice if you forget to escape it with `\`.
+> The `.` character is particularly error-prone since the wildcard `.` does match the literal character `.`, so you might not notice if you forget to escape it.
 
 ## Quantifiers
 
@@ -170,8 +170,6 @@ All quantifiers except `{n}` match a variable number of times. By default, these
 If these quantifiers are followed by a `?`, they become "non-greedy", meaning they will match as few times as possible, stopping as soon as the rest of the pattern matches.
 
 For example, let's try to find JSON objects.
-
-TODO text after
 
 ```py
 # non-greedy (doesn't work with nested objects):
