@@ -1,5 +1,6 @@
 # Joseph's cheat sheets
 
+- [Opening a CSV file in Excel](csv_in_excel.md)
 - [Python's Star Operator](packing.md)
 - [Regular Expression](regex.md)
 
